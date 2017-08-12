@@ -31,7 +31,8 @@ A for loop is composed of three parts. Each of these parts has it's own function
 
 1. Sets the index
  * e.g.
- ```JavaScript
+
+```JavaScript
 var i = 0;
 ```
 
