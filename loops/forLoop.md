@@ -22,7 +22,7 @@ A for loop is composed of three parts. Each of these parts has it's own function
 
 1. Sets the index
 
- * e.g. <img src="./images/3a.png" alt="set up index" height = 40 />
+ * e.g. <img src="./images/3a.png" alt="set up index" height=30 />
 
 ![set up index](./images/3a.png | height=100)
 ![set up index](./images/3a.png | width=100)
