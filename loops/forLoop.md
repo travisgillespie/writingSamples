@@ -30,12 +30,6 @@ A for loop is composed of three parts. Each of these parts has it's own function
     var i = 0;
     ```
 
-1. Sets the index
-```JavaScript
-var i = 0;
-```
-</br></br>
-
 2. Checks the condition
 
  * <img src="./images/4.png" alt="set up index" style="height:50px">
