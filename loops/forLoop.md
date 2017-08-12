@@ -30,9 +30,9 @@ A for loop is composed of three parts. Each of these parts has it's own function
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3a.png" alt="set up index" height=40 />
 
 1. Sets the index
- * ```JavaScript
-   var i = 0;
-   ```
+    ```JavaScript
+    var i = 0;
+    ```
 
 1. Sets the index
 ```JavaScript
