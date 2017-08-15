@@ -37,7 +37,7 @@ A for loop is composed of three statements. Each of these statements has a speci
     ```
 
 ### How to create a for loop
-First type the reserved word _for_, followed by an opening & closing set of parentheses and curly braces.
+First type the reserved word _<span style="color:#005cc5">for</span>_, followed by an opening & closing set of parentheses and curly braces.
 ```JavaScript
 for(){
 
