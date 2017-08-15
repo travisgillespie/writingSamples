@@ -131,7 +131,7 @@ Once the basics are understood, the process of building loops is simple. Marijn 
     * Table 1.1 will help illustrate the outcome for each iteration: when _i_ equals 1, _word_ equals 1; when _i_ equals 2, _word_ equals 2; when _i_ equals 3, _word_ equals _Fizz_; etc.
 
       |_i_ =   |1|2|3     |
-      |--------|-|-|------|
+      |--------|:------:|:------:|:------:|
       |_word_ =|1|2|_Fizz_|
 
 3. _For numbers divisible by 5 (and not 3), print "Buzz"._
