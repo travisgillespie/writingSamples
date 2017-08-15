@@ -109,7 +109,7 @@ for(var i = 0; i < 10;){
 ```
 
 ### How to write a program using a for loop
-Once the basics are understood, the process of building loops is simple. Marijn Haverbeke demonstrates a building block approach by starting with a simplified for loop that grows in complexity as the problem progresses (Haverbeke, 2014). This problem has been parsed so that it can be worked on in smaller chunks.
+Once the basics are understood, the process of building loops is simple. Marijn Haverbeke demonstrates a building block approach by starting with a simplified for loop that grows in complexity as the problem progresses [(Haverbeke, 2014)](#Citations). This problem has been parsed so that it can be worked on in smaller chunks.
 
 1. _Write a program that uses console.log to print all the numbers from 1 to 100._
   ```JavaScript
