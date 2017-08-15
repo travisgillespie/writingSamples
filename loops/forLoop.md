@@ -195,6 +195,6 @@ for(var i = 1; i <= 100; i++) {
 
 
 ****
-<h3><div style="text-align:center;text-decoration:underline">Citations</div></h3>
+<h3><div style="text-align:center; text-decoration:underline">Citations</div></h3>
 
 Haverbeke, Marijn. “Eloquent Javascript A Modern Introduction to Programming.” 2014, <a style="color:#0D6EE4" href="http://eloquentjavascript.net/02_program_structure.html">http://eloquentjavascript.net/02_program_structure.html</a>
