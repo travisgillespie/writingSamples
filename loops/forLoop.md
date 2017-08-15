@@ -1,11 +1,5 @@
-<style>
-  .hi{
-    color:red;
-  }
-</style>
-
 ## For Loops
-<span class="hi">Loops can</span> be a helpful tool if you want to run the same code over and over again. For example, loops can be used to keep track of a counter when using a timer or stopwatch. Notice the timer counts down toward zero, while the stopwatch counts up away from zero. Loops can be used for a variety of functions, and are commonly used to filter through an array. This tutorial will only cover the basics of a JavaScript _for-loop_.
+<font color=red>Loops</font> can be a helpful tool if you want to run the same code over and over again. For example, loops can be used to keep track of a counter when using a timer or stopwatch. Notice the timer counts down toward zero, while the stopwatch counts up away from zero. Loops can be used for a variety of functions, and are commonly used to filter through an array. This tutorial will only cover the basics of a JavaScript _for-loop_.
 ```JavaScript
 for (var i = 0; i < 10; i++){
   //do something...
@@ -117,7 +111,7 @@ Once the basics are understood, the process of building loops is simple. Marijn 
     	console.log(i);
     }
     ```
-    * Notice variable _i_ is set to 1, the condition will return _<span style="color:#005cc5">true</span>_ while _i_ is less than or equal to 100. Each time the _for-loop_ ends _i_ will increase by 1. It’s important to note this isn’t the only solution, but it’s an eloquent option.
+    * Notice variable _i_ is set to 1, the condition will return _<span style="color:#005cc5">true</span>_ while _i_ is less than or equal to 100. Each time the _for-loop_ ends, _i_ will increase by 1. It’s important to note this isn’t the only solution, but it’s an eloquent option.
 
 2. _For numbers divisible by 3, print "Fizz"._
 
