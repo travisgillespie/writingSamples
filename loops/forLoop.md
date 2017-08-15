@@ -1,8 +1,5 @@
-<style>
-#foo {color: red}
-</style>
 ## For Loops
-<p id="foo">Loops</p> can be a helpful tool if you want to run the same code over and over again. For example, loops can be used to keep track of a counter when using a timer or stopwatch. Notice the timer counts down toward zero, while the stopwatch counts up away from zero. Loops can be used for a variety of functions, and are commonly used to filter through an array. This tutorial will only cover the basics of a JavaScript _for-loop_.
+Loops can be a helpful tool if you want to run the same code over and over again. For example, loops can be used to keep track of a counter when using a timer or stopwatch. Notice the timer counts down toward zero, while the stopwatch counts up away from zero. Loops can be used for a variety of functions, and are commonly used to filter through an array. This tutorial will only cover the basics of a JavaScript _for-loop_.
 ```JavaScript
 for (var i = 0; i < 10; i++){
   //do something...
@@ -40,7 +37,7 @@ A for loop is composed of three statements. Each of these statements has a speci
     ```
 
 ### How to create a for loop
-First type the reserved word _<span style="color:#005cc5">for</span>_, followed by an opening & closing set of parentheses and curly braces.
+First type the reserved word _for_, followed by an opening & closing set of parentheses and curly braces.
 ```JavaScript
 for(){
 
@@ -71,7 +68,7 @@ for(;;){
 }
 ```
 
-The second statement checks the condition. It is similar to a _while loop_; which uses a test expression to check whether the counter has reached a defined boundary. If the statement returns _<span style="color:#005cc5">true</span>_, the loop will repeat. But, once that boundary has been reached, the condition will return _<span style="color:#005cc5">false</span>_, and the loop will end. This statement is also optional, if omitted a _<span style="color:#d73a49">break</span>_ is required inside the loop, otherwise, it won’t end.
+The second statement checks the condition. It is similar to a _while loop_; which uses a test expression to check whether the counter has reached a defined boundary. If the statement returns _true_, the loop will repeat. But, once that boundary has been reached, the condition will return _false_, and the loop will end. This statement is also optional, if omitted a _break_ is required inside the loop, otherwise, it won’t end.
 ```JavaScript
 //common version
 for(var i = 0; i < 10;){
@@ -114,7 +111,7 @@ Once the basics are understood, the process of building loops is simple. Marijn 
     	console.log(i);
     }
     ```
-    * Notice variable _i_ is set to 1, the condition will return _<span style="color:#005cc5">true</span>_ while _i_ is less than or equal to 100. Each time the _for-loop_ ends, _i_ will increase by 1. It’s important to note this isn’t the only solution, but it’s an eloquent option.
+    * Notice variable _i_ is set to 1, the condition will return _true_ while _i_ is less than or equal to 100. Each time the _for-loop_ ends, _i_ will increase by 1. It’s important to note this isn’t the only solution, but it’s an eloquent option.
 
 2. _For numbers divisible by 3, print "Fizz"._
 
@@ -129,7 +126,7 @@ Once the basics are understood, the process of building loops is simple. Marijn 
       console.log(word);
     }
     ```
-    * The variable _word_ is initialized at the start of the _for-loop_, and set to an empty string. The modulo operator determines if _i_ is divisible by 3. If it is: it will have a remainder of 0, the condition will return _<span style="color:#005cc5">true</span>_, and _word_ will be set _Fizz_. Otherwise, it will return _<span style="color:#005cc5">false</span>_, move to the next _else_ statement, and _word_ will be set to the value of _i_.
+    * The variable _word_ is initialized at the start of the _for-loop_, and set to an empty string. The modulo operator determines if _i_ is divisible by 3. If it is: it will have a remainder of 0, the condition will return _true_, and _word_ will be set _Fizz_. Otherwise, it will return _false_, move to the next _else_ statement, and _word_ will be set to the value of _i_.
 
     * Table 1.1 will help illustrate the outcome for each iteration: when _i_ equals 1, _word_ equals 1; when _i_ equals 2, _word_ equals 2; when _i_ equals 3, _word_ equals _Fizz_; etc.
 <!-- Table 1.1 console log table for values 1 through 3 -->
@@ -149,11 +146,11 @@ Once the basics are understood, the process of building loops is simple. Marijn 
       console.log(word);
     }
     ```
-    * A new _else if_ conditional statement has been introduced. This modulo operator determines if _i_ is divisible by 5. If it is: it will have a remainder of 0, the condition will return _<span style="color:#005cc5">true</span>_, and _word_ will be set to _Buzz_.
+    * A new _else if_ conditional statement has been introduced. This modulo operator determines if _i_ is divisible by 5. If it is: it will have a remainder of 0, the condition will return _true_, and _word_ will be set to _Buzz_.
 
     * Table 1.2 will illustrate this set of iterations. Starting with _i_ set equal to 4. _word_ is initialized as an empty string. Since 4 is not divisible by 3, or 5, the loop skips to the last statement, which assigns _word_ to equal 4. Next, _console.log()_ will print the value of _word_, and _i_ will increment by 1 at the end of the loop.
 
-    * This time _i_ equals 5, and _word_ is initialized as an empty string. 5 is not divisible by 3, but 5 is divisible by 5. When the loop reaches the second statement, the condition returns _<span style="color:#005cc5">true</span>_, and _word_ is set to _Buzz_.  The loop will skip over the final _else_ statement, print the value of _word_ to the console, increment _i_ by 1, and the pattern continues.
+    * This time _i_ equals 5, and _word_ is initialized as an empty string. 5 is not divisible by 3, but 5 is divisible by 5. When the loop reaches the second statement, the condition returns _true_, and _word_ is set to _Buzz_.  The loop will skip over the final _else_ statement, print the value of _word_ to the console, increment _i_ by 1, and the pattern continues.
 
 <!-- Table 1.2 console log table show 1 through three but explain starting at value 4 and go to 5-->
 
