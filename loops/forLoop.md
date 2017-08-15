@@ -85,7 +85,7 @@ for(var i = 0;;){
 }
 ```
 
-The third statement is used to update the index (i.e. the variable), by either incrementing or decrementing its value. This statement executes after each iteration of the loop. Statement 3 is also optional, and if omitted from parentheses, it must be placed inside the loop. Note, this value can be changed through addition, subtraction, multiplication, or division.
+The third statement is used to update the index (i.e. the variable), by either incrementing or decrementing its value. This statement executes after each iteration of the loop. Statement 3 is also optional, and if omitted from parentheses, it must be placed inside the loop. Note, this value can be changed through addition, subtraction, multiplication, or division. This loop will run while _i_ is less than 10.
 ```JavaScript
 //common version
 for(var i = 0; i < 10; i++){
@@ -151,7 +151,7 @@ Once the basics are understood, the process of building loops is simple. Marijn 
 
   * A new _else if_ conditional statement has been introduced. This modulo operator determines if _i_ is divisible by 5. If it is: it will have a remainder of 0, the condition will return _<span style="color:#005cc5">true</span>_, and _word_ will be set to _Buzz_.
 
-  * Table 1.2 will illustrate this set of iterations. Continuing from where we left off in the previous example; starting with the value 4. _word_ is initialized as an empty string. Since 4 is not divisible by 3, or 5, the loop skips to the last statement, which assigns _word_ to equal 4. Next, _console.log()_ will print the value of _word_, and _i_ will increment by 1 at the end of the loop.
+  * Table 1.2 will illustrate this set of iterations. Starting with _i_ set equal to 4. _word_ is initialized as an empty string. Since 4 is not divisible by 3, or 5, the loop skips to the last statement, which assigns _word_ to equal 4. Next, _console.log()_ will print the value of _word_, and _i_ will increment by 1 at the end of the loop.
 
   * This time _i_ equals 5, and _word_ is initialized as an empty string. 5 is not divisible by 3, but 5 is divisible by 5. When the loop reaches the second statement, the condition returns _<span style="color:#005cc5">true</span>_, and _word_ is set to _Buzz_.  The loop will skip over the final _else_ statement, print the value of _word_ to the console, increment _i_ by 1, and the pattern continues.
 
