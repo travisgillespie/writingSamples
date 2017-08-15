@@ -155,9 +155,9 @@ Once the basics are understood, the process of building loops is simple. Marijn 
 
     * This time _i_ equals 5, and _word_ is initialized as an empty string. 5 is not divisible by 3, but 5 is divisible by 5. When the loop reaches the second statement, the condition returns _true_, and _word_ is set to _Buzz_.  The loop will skip over the final _else_ statement, print the value of _word_ to the console, increment _i_ by 1, and the pattern continues.
 
-      |_i_ =   |1|2|3     |4|5     |
-      |--------|-|-|------|-|------|
-      |_word_ =|1|2|_Fizz_|4|_Buzz_|
+      |_i_ =   |1       |2       |3       |4       |5       |
+      |--------|:------:|:------:|:------:|:------:|:------:|
+      |_word_ =|1       |2       |_Fizz_  |4       |_Buzz_  |
 
 4. _Modify your program to print "FizzBuzz" for numbers that are divisible by both 3 and 5.
     ```JavaScript
@@ -176,9 +176,9 @@ Once the basics are understood, the process of building loops is simple. Marijn 
 
     * Table 1.3 will illustrate this set of iterations. _word_ is initialized as an empty string. The loop runs into the first _if_ statement. 15 is divisible by 3, so _Fizz_ is concatenated onto _word_. The loop runs into the second _if_statement. 15 is divisible by 5, so _Buzz_ is also concatenated onto _word_. In this case, producing _FizzBuzz_.
 
-      |_i_ =   |1|2|3     |4|5     |...|15        |
-      |--------|-|-|------|-|------|---|----------|
-      |_word_ =|1|2|_Fizz_|4|_Buzz_|...|_FizzBuzz_|
+      |_i_ =   |1         |2         |3         |4         |5         |...       |15        |
+      |--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+      |_word_ =|1         |2         |_Fizz_    |4         |_Buzz_    |...       |_FizzBuzz_|
 
 ****
 <h3>
