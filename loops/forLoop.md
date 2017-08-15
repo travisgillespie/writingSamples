@@ -20,7 +20,7 @@ By the end of this training you will be able to:
 * Reproduce a series of for-loops that vary in complexity
 
 
-### Basic Components of a for loop.
+### Basic Components of a For-Loop.
 A for loop is composed of three statements. Each of these statements has a specific purpose, and is essential to determining how the for loop will function:
 
 1. Sets the index.
@@ -36,7 +36,7 @@ A for loop is composed of three statements. Each of these statements has a speci
     i++;
     ```
 
-### How to create a for loop
+### How to Create a For-Loop
 First type the reserved word _for_, followed by an opening & closing set of parentheses and curly braces.
 ```JavaScript
 for(){
@@ -102,7 +102,7 @@ for(var i = 0; i < 10;){
 }
 ```
 
-### How to write a program using a for loop
+### How to Write a Program Using a For-Loop
 Once the basics are understood, the process of building loops is simple. Marijn Haverbeke demonstrates a building block approach by starting with a simplified for loop that grows in complexity as the problem progresses [(Haverbeke, 2014)](#citations). This problem has been parsed so that it can be worked on in smaller chunks.
 
 1. _Write a program that uses console.log to print all the numbers from 1 to 100._
