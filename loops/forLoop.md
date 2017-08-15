@@ -111,7 +111,7 @@ Once the basics are understood, the process of building loops is simple. Marijn 
     	console.log(i);
     }
     ```
-    * Notice variable _i_ is set to 1, the condition will return _true_ while _i_ is less than or equal to 100. Each time the _for-loop_ ends, _i_ will increase by 1. It’s important to note this isn’t the only solution, but it’s an eloquent option.
+  * Notice variable _i_ is set to 1, the condition will return _true_ while _i_ is less than or equal to 100. Each time the _for-loop_ ends, _i_ will increase by 1. It’s important to note this isn’t the only solution, but it’s an eloquent option.
 
 2. _For numbers divisible by 3, print "Fizz"._
 
