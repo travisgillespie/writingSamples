@@ -73,6 +73,10 @@ for(var i = 0; i < 10;){
 //optional version
 for(var i = 0;;){
   //do something...
+true
+false
+
+
   break
 }
 ```
