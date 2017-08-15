@@ -61,7 +61,7 @@ for(;;){
 }
 ```
 
-The second statement checks the condition. It is similar to a _while loop_; which uses a test expression to check whether the counter has reached a defined boundary. If the statement returns _<span style="color:#0D6EE4">true</span>_, the loop will start over again. Once that boundary has been reached, the condition will return _<span style="color:#FF3399">false</span>_, and the loop will end. This statement is also optional, but if omitted, a _<span style="color:#FF0000">break</span>_ is required inside the loop, otherwise, it will never end.
+The second statement checks the condition. It is similar to a _while loop_; which uses a test expression to check whether the counter has reached a defined boundary. If the statement returns _<span style="color:#005cc5">true</span>_, the loop will start over again. Once that boundary has been reached, the condition will return _<span style="color:#005cc5">false</span>_, and the loop will end. This statement is also optional, but if omitted, a _<span style="color:#d73a49">break</span>_ is required inside the loop, otherwise, it will never end.
 ```JavaScript
 //common version
 for(var i = 0; i < 10;){
@@ -106,7 +106,7 @@ for(var i = 1; i <= 100; i++) {
 }
 ```
 
-* Notice variable _i_ is set to the value 1, the condition will return _<span style="color:#0D6EE4">true</span>_ _while i_ is less than or equal to 100; and each time the _for-loop_ ends _i_ will increase by a value of 1. It’s important to note this isn’t the only solution, but it’s an eloquent option.
+* Notice variable _i_ is set to the value 1, the condition will return _<span style="color:#005cc5">true</span>_ _while i_ is less than or equal to 100; and each time the _for-loop_ ends _i_ will increase by a value of 1. It’s important to note this isn’t the only solution, but it’s an eloquent option.
 
 
 
@@ -125,7 +125,7 @@ for(var i = 1; i <= 100; i++) {
 }
 ```
 
-*There have been a few modifications to the code in this example. Starting with the variable _word_, it is initialized at the start of the _for-loop)_, and set to an empty string. The _if_ condition uses the modulo operator to determine whether _i_ is divisible by the value 3. If it is: it will have a remainder of 0, the condition will return _<span style="color:#0D6EE4">true</span>_, and _word_ will be set to the string _Fizz_. Otherwise, the if condition will return _<span style="color:#FF3399">false</span>_, the code will skip to the _else_ statement, and _word_ will be set to the value of _i_. Again, this isn’t the only solution, but it’s an eloquent one.
+*There have been a few modifications to the code in this example. Starting with the variable _word_, it is initialized at the start of the _for-loop)_, and set to an empty string. The _if_ condition uses the modulo operator to determine whether _i_ is divisible by the value 3. If it is: it will have a remainder of 0, the condition will return _<span style="color:#005cc5">true</span>_, and _word_ will be set to the string _Fizz_. Otherwise, the if condition will return _<span style="color:#005cc5">false</span>_, the code will skip to the _else_ statement, and _word_ will be set to the value of _i_. Again, this isn’t the only solution, but it’s an eloquent one.
 
 *Table 1.1 will help illustrate the outcome for each iteration: when _i_ is equal to 1, _word_ will equal 1; when _i_ is equal to 2, _word_ will equal 2; when _i_ is equal to 3, _word_ will equal _Fizz_; etc.
 
@@ -157,12 +157,12 @@ for(var i = 1; i <= 100; i++) {
 }
 ```
 
-* So now we want to print the word _Buzz_ only if the value is divisible by 5. There have only been couple changes in this code. First, a new _else if_ conditional statement has been introduced. But, it’s similar to the previous condition. This condition uses the modulo operator to determine whether _i_ is divisible by the value 5. If it is: it will have a remainder of 0, the condition will return _<span style="color:#0D6EE4">true</span>_, and _word_ will be set to the string _Buzz_.
+* So now we want to print the word _Buzz_ only if the value is divisible by 5. There have only been couple changes in this code. First, a new _else if_ conditional statement has been introduced. But, it’s similar to the previous condition. This condition uses the modulo operator to determine whether _i_ is divisible by the value 5. If it is: it will have a remainder of 0, the condition will return _<span style="color:#005cc5">true</span>_, and _word_ will be set to the string _Buzz_.
 
 * Table 1.2 will help illustrate the outcome for this next set of iterations. Let’s run through this _for-loop_ continuing where we left off in the previous example; starting with the value 4. The variable _word_ is initialized as an empty string. 4 is not divisible by 3, so the for-loop skips to the next statement. 4 is not divisible by 5, and the for-loop skips to the last statement, which sets _word_ to the value 4. _console.log()_ will print the value for word, and _i_ will increment by 1 at the end of the _for-loop_.
 
 * The next time through the _for-loop_, _i_ is equal to 5.
-The variable _word_ is initialized as an empty string. 5 is not divisible by 3, but 5 is not divisible by 5. When the _for-loop_ reaches the second statement, the condition returns _<span style="color:#0D6EE4">true</span>_, and _word_ is set to the string _Buzz_.  The loop will skip over the final _else_ statement, print _word_ to the console, increment _i_ by 1, and the pattern will continue.
+The variable _word_ is initialized as an empty string. 5 is not divisible by 3, but 5 is not divisible by 5. When the _for-loop_ reaches the second statement, the condition returns _<span style="color:#005cc5">true</span>_, and _word_ is set to the string _Buzz_.  The loop will skip over the final _else_ statement, print _word_ to the console, increment _i_ by 1, and the pattern will continue.
 
 <!-- Table 1.2 console log table show 1 through three but explain starting at value 4 and go to 5-->
 
