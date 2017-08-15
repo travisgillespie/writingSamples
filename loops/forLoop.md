@@ -20,7 +20,7 @@ By the end of this training you will be able to:
 * Reproduce a series of for-loops that vary in complexity
 
 
-### Basic Components of a For-Loop.
+### Basic Components of a For-Loop
 A for loop is composed of three statements. Each of these statements has a specific purpose, and is essential to determining how the for loop will function:
 
 1. Sets the index.
