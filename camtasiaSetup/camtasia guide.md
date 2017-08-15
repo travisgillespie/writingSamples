@@ -8,7 +8,7 @@ This guide will provide you the information needed to capture screen recordings 
 * Editing recorded videos
 
 ### How to Install the Software
-The recommended software to record your desktop is Camtasia using Mac OS X. You can <a href="https://www.techsmith.com/download/oldversions" style="color:#0D6EE4">download a trial version</a> of Camtasia if you do not have a license. If you have exceeded a trial version, contact sprinklru@sprinklr.com.
+The recommended software to record your desktop is Camtasia using Mac OS X. You can <a href="https://www.techsmith.com/download/oldversions" style="color:#0D6EE4">download a trial version</a> of Camtasia if you do not have a license.
 
 ### How to Set up Initial Recording Settings
 Follow these steps for initial Set up to capture high-quality video and avoid re-recording.
