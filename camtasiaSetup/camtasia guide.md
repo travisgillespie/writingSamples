@@ -24,7 +24,7 @@ Do a sound check. Speak with a normal tone. The mic input bar should indicate 50
 
 If the level is lower than 50% - 75%. Adjust your mic. This has to be done on your Mac’s system settings. Click the Apple Icon  in the top left corner of your Mac.
 
-<img src="./images/appleLogo.png" alt="apple logo" width="250">
+<img src="./images/appleLogo.png" alt="apple logo" width=200>
 
 Select System Preferences.
 </br>![sound check](./images/4.png)
