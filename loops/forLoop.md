@@ -130,10 +130,9 @@ Once the basics are understood, the process of building loops is simple. Marijn 
 
     * Table 1.1 will help illustrate the outcome for each iteration: when _i_ equals 1, _word_ equals 1; when _i_ equals 2, _word_ equals 2; when _i_ equals 3, _word_ equals _Fizz_; etc.
 
-    |--------|-|-|------|
     |_i_ =   |1|2|3     |
+    |--------|-|-|------|
     |_word_ =|1|2|_Fizz_|
-
 
 3. _For numbers divisible by 5 (and not 3), print "Buzz"._
 
@@ -156,8 +155,10 @@ Once the basics are understood, the process of building loops is simple. Marijn 
 
     * This time _i_ equals 5, and _word_ is initialized as an empty string. 5 is not divisible by 3, but 5 is divisible by 5. When the loop reaches the second statement, the condition returns _true_, and _word_ is set to _Buzz_.  The loop will skip over the final _else_ statement, print the value of _word_ to the console, increment _i_ by 1, and the pattern continues.
 
-<!-- Table 1.2 console log table show 1 through three but explain starting at value 4 and go to 5-->
-
+    |_i_ =   |1|2|3     |4|5     |
+    |--------|-|-|------|-|------|
+    |_word_ =|1|2|_Fizz_|4|_Buzz_|
+
 4. _Modify your program to print "FizzBuzz" for numbers that are divisible by both 3 and 5.
     ```JavaScript
     for(var i = 1; i <= 100; i++) {
@@ -175,9 +176,10 @@ Once the basics are understood, the process of building loops is simple. Marijn 
 
     * Table 1.3 will illustrate this set of iterations. _word_ is initialized as an empty string. The loop runs into the first _if_ statement. 15 is divisible by 3, so _Fizz_ is concatenated onto _word_. The loop runs into the second _if_statement. 15 is divisible by 5, so _Buzz_ is also concatenated onto _word_. In this case, producing _FizzBuzz_.
 
-<!--Table 1.3 console log table skip to the value 15-->
+    |_i_ =   |1|2|3     |4|5     |...|15        |
+    |--------|-|-|------|-|------|---|----------|
+    |_word_ =|1|2|_Fizz_|4|_Buzz_|...|_FizzBuzz_|
 
-
 ****
 <h3>
 <div style="text-align:center; text-decoration:underline">Citations</div>
