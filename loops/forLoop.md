@@ -112,74 +112,70 @@ for(var i = 0; i < 10;){
 Once the basics are understood, the process of building loops is simple. Marijn Haverbeke demonstrates a building block approach by starting with a simplified for loop that grows in complexity as the problem progresses [(Haverbeke, 2014)](#citations). This problem has been parsed so that it can be worked on in smaller chunks.
 
 1. _Write a program that uses console.log to print all the numbers from 1 to 100._
-  ```JavaScript
-  for(var i = 1; i <= 100; i++) {
-  	console.log(i);
-  }
-  ```
-
-  * Notice variable _i_ is set to 1, the condition will return _<span style="color:#005cc5">true</span>_ while _i_ is less than or equal to 100. Each time the _for-loop_ ends _i_ will increase by 1. It’s important to note this isn’t the only solution, but it’s an eloquent option.
+    ```JavaScript
+    for(var i = 1; i <= 100; i++) {
+    	console.log(i);
+    }
+    ```
+    * Notice variable _i_ is set to 1, the condition will return _<span style="color:#005cc5">true</span>_ while _i_ is less than or equal to 100. Each time the _for-loop_ ends _i_ will increase by 1. It’s important to note this isn’t the only solution, but it’s an eloquent option.
 
 2. _For numbers divisible by 3, print "Fizz"._
 
-  ```JavaScript
-  for(var i = 1; i <= 100; i++) {
-  	var word = “”;
-  	if (i %3 == 0){
-      word = "Fizz";
-    } else {
-       word = i;
+    ```JavaScript
+    for(var i = 1; i <= 100; i++) {
+    	var word = “”;
+    	if (i %3 == 0){
+        word = "Fizz";
+      } else {
+         word = i;
+      }
+      console.log(word);
     }
-    console.log(word);
-  }
-  ```
+    ```
+    * The variable _word_ is initialized at the start of the _for-loop_, and set to an empty string. The modulo operator determines if _i_ is divisible by 3. If it is: it will have a remainder of 0, the condition will return _<span style="color:#005cc5">true</span>_, and _word_ will be set _Fizz_. Otherwise, it will return _<span style="color:#005cc5">false</span>_, move to the next _else_ statement, and _word_ will be set to the value of _i_.
 
-  * The variable _word_ is initialized at the start of the _for-loop_, and set to an empty string. The modulo operator determines if _i_ is divisible by 3. If it is: it will have a remainder of 0, the condition will return _<span style="color:#005cc5">true</span>_, and _word_ will be set _Fizz_. Otherwise, it will return _<span style="color:#005cc5">false</span>_, move to the next _else_ statement, and _word_ will be set to the value of _i_.
-
-  * Table 1.1 will help illustrate the outcome for each iteration: when _i_ equals 1, _word_ equals 1; when _i_ equals 2, _word_ equals 2; when _i_ equals 3, _word_ equals _Fizz_; etc.
+    * Table 1.1 will help illustrate the outcome for each iteration: when _i_ equals 1, _word_ equals 1; when _i_ equals 2, _word_ equals 2; when _i_ equals 3, _word_ equals _Fizz_; etc.
 <!-- Table 1.1 console log table for values 1 through 3 -->
 
 3. _For numbers divisible by 5 (and not 3), print "Buzz"._
 
-  ```JavaScript
-  for(var i = 1; i <= 100; i++) {
-  	var word = "";
-  	if (i %3 == 0){
-      word += "Fizz";
-    } else if (i % 5 == 0) {
-  		word += "Buzz";
-  	} else {
-       word = i;
+    ```JavaScript
+    for(var i = 1; i <= 100; i++) {
+    	var word = "";
+    	if (i %3 == 0){
+        word += "Fizz";
+      } else if (i % 5 == 0) {
+    		word += "Buzz";
+    	} else {
+         word = i;
+      }
+      console.log(word);
     }
-    console.log(word);
-  }
-  ```
+    ```
+    * A new _else if_ conditional statement has been introduced. This modulo operator determines if _i_ is divisible by 5. If it is: it will have a remainder of 0, the condition will return _<span style="color:#005cc5">true</span>_, and _word_ will be set to _Buzz_.
 
-  * A new _else if_ conditional statement has been introduced. This modulo operator determines if _i_ is divisible by 5. If it is: it will have a remainder of 0, the condition will return _<span style="color:#005cc5">true</span>_, and _word_ will be set to _Buzz_.
+    * Table 1.2 will illustrate this set of iterations. Starting with _i_ set equal to 4. _word_ is initialized as an empty string. Since 4 is not divisible by 3, or 5, the loop skips to the last statement, which assigns _word_ to equal 4. Next, _console.log()_ will print the value of _word_, and _i_ will increment by 1 at the end of the loop.
 
-  * Table 1.2 will illustrate this set of iterations. Starting with _i_ set equal to 4. _word_ is initialized as an empty string. Since 4 is not divisible by 3, or 5, the loop skips to the last statement, which assigns _word_ to equal 4. Next, _console.log()_ will print the value of _word_, and _i_ will increment by 1 at the end of the loop.
-
-  * This time _i_ equals 5, and _word_ is initialized as an empty string. 5 is not divisible by 3, but 5 is divisible by 5. When the loop reaches the second statement, the condition returns _<span style="color:#005cc5">true</span>_, and _word_ is set to _Buzz_.  The loop will skip over the final _else_ statement, print the value of _word_ to the console, increment _i_ by 1, and the pattern continues.
+    * This time _i_ equals 5, and _word_ is initialized as an empty string. 5 is not divisible by 3, but 5 is divisible by 5. When the loop reaches the second statement, the condition returns _<span style="color:#005cc5">true</span>_, and _word_ is set to _Buzz_.  The loop will skip over the final _else_ statement, print the value of _word_ to the console, increment _i_ by 1, and the pattern continues.
 
 <!-- Table 1.2 console log table show 1 through three but explain starting at value 4 and go to 5-->
 
 4. _Modify your program to print "FizzBuzz" for numbers that are divisible by both 3 and 5.
-  ```JavaScript
-  for(var i = 1; i <= 100; i++) {
-  	var word = "";
-  	if (i % 3 == 0){
-      word += "Fizz";
+    ```JavaScript
+    for(var i = 1; i <= 100; i++) {
+    	var word = "";
+    	if (i % 3 == 0){
+        word += "Fizz";
+      }
+    	if (i % 5 == 0) {
+    		word += "Buzz";
+    	}
+      console.log(word || i);
     }
-  	if (i % 5 == 0) {
-  		word += "Buzz";
-  	}
-    console.log(word || i);
-  }
-  ```
+    ```
+    * Notice this problem is more complex, but the code is brief compared to the previous examples. What happened? All that’s happened is the excess code has been removed. Let’s take a look at how this code produces an eloquent solution using the number 15.
 
-  * Notice this problem is more complex, but the code is brief compared to the previous examples. What happened? All that’s happened is the excess code has been removed. Let’s take a look at how this code produces an eloquent solution using the number 15.
-
-  * Table 1.3 will illustrate this set of iterations. _word_ is initialized as an empty string. The loop runs into the first _if_ statement. 15 is divisible by 3, so _Fizz_ is concatenated onto _word_. The loop runs into the second _if_statement. 15 is divisible by 5, so _Buzz_ is also concatenated onto _word_. In this case, producing _FizzBuzz_.
+    * Table 1.3 will illustrate this set of iterations. _word_ is initialized as an empty string. The loop runs into the first _if_ statement. 15 is divisible by 3, so _Fizz_ is concatenated onto _word_. The loop runs into the second _if_statement. 15 is divisible by 5, so _Buzz_ is also concatenated onto _word_. In this case, producing _FizzBuzz_.
 
 <!--Table 1.3 console log table skip to the value 15-->
 
