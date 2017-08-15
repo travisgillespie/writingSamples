@@ -1,5 +1,5 @@
 ## For Loops
-<font style="color:red">Loops</font> can be a helpful tool if you want to run the same code over and over again. For example, loops can be used to keep track of a counter when using a timer or stopwatch. Notice the timer counts down toward zero, while the stopwatch counts up away from zero. Loops can be used for a variety of functions, and are commonly used to filter through an array. This tutorial will only cover the basics of a JavaScript _for-loop_.
+<b style='color:red'>Loops</b> can be a helpful tool if you want to run the same code over and over again. For example, loops can be used to keep track of a counter when using a timer or stopwatch. Notice the timer counts down toward zero, while the stopwatch counts up away from zero. Loops can be used for a variety of functions, and are commonly used to filter through an array. This tutorial will only cover the basics of a JavaScript _for-loop_.
 ```JavaScript
 for (var i = 0; i < 10; i++){
   //do something...
