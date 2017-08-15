@@ -24,17 +24,17 @@ By the end of this training you will be able to:
 A for loop is composed of three statements. Each of these statements has a specific purpose, and is essential to determining how the for loop will function:
 
 1. Sets the index.
-```JavaScript
-var i = 0;
-```
+  ```JavaScript
+  var i = 0;
+  ```
 2. Checks the condition
-```JavaScript
-i < 10;
-```
+  ```JavaScript
+  i < 10;
+  ```
 3. Updates the index
-```JavaScript
-i++;
-```
+  ```JavaScript
+  i++;
+  ```
 
 ### How to create a for loop
 First type the reserved word _for_, followed by an opening & closing set of parentheses and curly braces.
