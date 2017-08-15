@@ -132,7 +132,7 @@ Once the basics are understood, the process of building loops is simple. Marijn 
 
     |_i_ =   |1|2|3|
     |--------|-|-|-|
-    |_word_ =|1|2|3|
+    |_word_ =|1|2|_Fizz_|
 
 
 3. _For numbers divisible by 5 (and not 3), print "Buzz"._
