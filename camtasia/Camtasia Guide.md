@@ -20,7 +20,7 @@ Once you have Camtasia open, create a _New Project_, and click the record button
 Ensure the room is quiet and there is minimal to no background noise. Use a headset and microphone, rather than your computer’s built-in mic. This will improve the audio quality. There are many reasonably priced headsets online, one recommendation is [Microsoft Lifechat LX-6000](https://www.amazon.com/Microsoft-LifeChat-LX-6000-for-Business/dp/B00465UNYI/ref=sr_1_1?ie=UTF8&qid=1501683539&sr=8-1&keywords=Microsoft+Lifechat+LX-6000).
 </br>![mic set up](./images/2.png)
 
-Do a sound check. Speak with a normal tone. The mic input bar should indicate 50% - 75% when speaking.
+Do a sound check before any new session. Speak with a normal tone. The mic input bar should indicate 50% - 75% when speaking.
 </br>![sound check](./images/3.png)
 
 If the level is lower than 50% - 75%. Adjust your mic. This has to be done on your Mac’s system settings. Click the Apple Icon  in the top left corner of your Mac.
