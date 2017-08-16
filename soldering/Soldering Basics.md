@@ -10,7 +10,7 @@ A basic understanding of electronics is useful but not required.
 
 ### Objectives
 By the end of this lesson you will be able to:
-* Select the proper solder type, and tools
+* Select the proper tools and solder
 * Identify the resistance of a resistor
 * Identify the capacitance of a capacitor
 * Describe best practices of soldering electronics to a circuit board
