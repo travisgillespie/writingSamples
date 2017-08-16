@@ -1,10 +1,9 @@
-<h1>In the process of building this lesson.</h1>
-<h1>It will be complete by EOD 9-18-17.</h1>
+<h1>In the process of building this lesson. It will be complete by EOD 9-18-17.</h1>
 
 ## Soldering and Basic Electronics Safety
 
 ### Synopsis
-In this training you will learn about soldering, and how it has been used to make many of the electronic devices people have enjoyed for decades. Although many handheld electronics used today are assembled with machines, soldering by hand still has a variety of applicable uses.
+In this training you will learn about soldering. Soon, you will understand how it has been used to make many of the electronic devices people have enjoyed for decades. Although many handheld electronics used today are assembled with machines, people still use soldering for a variety of electronic applications.
 
 ### Prerequisites
 A basic understanding of electronics is useful but not required.
