@@ -1,3 +1,6 @@
+<h1>In the process of building this lesson.</h1>
+<h1>It will be complete by EOD 9-18-17.</h1>
+
 ## Soldering and Basic Electronics Safety
 
 ### Synopsis
@@ -51,8 +54,6 @@ Size matters, when it comes to solder. The thickness of the wire and electrical 
 <!-- links to demo videos -->
 
 
-
-<h1>In the process of building this lesson. It will be complete by EOD 9-18-17.</h1>
 
 ### Color Codes
 
