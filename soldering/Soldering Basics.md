@@ -29,7 +29,7 @@ By the end of this lesson you will be able to:
 
 ### General Safety
 * You may want to use safety glasses. Eye protection is a good idea when working with anything that might get into your eyes (e.g. chemicals, metal shards, or sawdust).
-* Always assume the soldering iron is __HOT__. The tip can get very hot, and won’t be red. You can easily burn yourself if not careful.
+* Always assume the soldering iron is __HOT__. The tip can get very hot, and won’t glow orange as an indicator. You can easily burn yourself if not careful.
 * Never leave a soldering iron unattended when plugged in (i.e. when turned on).
 * Use a fire resistant surface when soldering.
 
