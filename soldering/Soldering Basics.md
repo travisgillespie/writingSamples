@@ -1,4 +1,4 @@
-<h1>In the process of building this lesson. It will be complete by EOD 9-18-17.</h1>
+<h1>This lesson is currently being built. It will be complete by EOD 9-18-17.</h1>
 
 ## Soldering and Basic Electronics Safety
 
