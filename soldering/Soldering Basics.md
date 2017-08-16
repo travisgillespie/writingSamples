@@ -30,17 +30,17 @@ By the end of this lesson you will be able to:
 ### General Safety
 * You may want to use safety glasses. Eye protection is a good idea when working with anything that might get into your eyes (e.g. chemicals, metal shards, or sawdust).
 * Always assume the soldering iron is __HOT__. The tip can get very hot, and won’t glow orange as an indicator. You can easily burn yourself if not careful.
-* Never leave a soldering iron unattended when plugged in (i.e. when turned on).
+* Never leave a soldering iron unattended when plugged in (i.e. not only when it's turned on, but connected to a power source).
 * Use a fire resistant surface when soldering.
 
 ### What is Soldering?
-Soldering is the process of connecting two or more components (usually metal) by melting a separate metal alloy, called solder, over the joined pieces.The molten solder coats the components, cools, then hardens. It’s similar to working with glue.
+Soldering is the process of connecting two or more components (usually metal) by melting a separate metal alloy, called solder, over the joined pieces. The molten solder coats the components, cools, then hardens. It’s similar to working with glue.
 
 
 ### Tinning
 Tinning is a technique used to help melt the connector contacts (i.e. wires) together. Tinning is simply the process of melting a coat of solder on the tip of your iron, and electronic components. This additional coat not only makes the soldering process easier, it fills gaps within the wires, and creates sturdy connections.
 
-Here is a video that describes the tinning process.
+<!--Here is a video that describes the tinning process.-->
 <!-- VIDEO -->
 
 ### Solder Types
