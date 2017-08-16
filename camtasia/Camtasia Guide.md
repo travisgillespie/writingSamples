@@ -1,7 +1,7 @@
 # <span style="color:#0346A3"> Quick Knowledge Guide:</span><span style="color:#91A11B"> Camtasia 2</span>
 
 ### Synopsis
-Recording a Camtasia session is a quick way to generate re-usable training materials that can be shared with others. Sometimes these recordings need to be edited in order to upload them to a formal eLearning course. This document has been created to help keep the recording quality as high as possible for re-use. This guide will provide you the information needed to capture high quality screen recordings defined by your _Learning & Performance_ team.
+Recording a Camtasia session is a quick way to generate re-usable training materials that can be shared with others. Sometimes these recordings need to be edited in order to upload them to a formal eLearning course. This document has been created to provide a standard process for all recordings, that will ensure the quality is as high as possible for re-use. This guide will provide you the information needed to capture high quality screen recordings defined by your _Learning & Performance_ team.
 
 ### Objectives
 By the end of this guide, you will have received information on:
@@ -67,14 +67,13 @@ Focus on the content you want to record when selecting a region.
 The required dimensions for all course recordings are 1280 x 720. Manually enter these values into the provided textfields. Camtasia will remember these values for your next recording.
 </br>![sound check](./images/15.png)
 
-
-Place your mouse inside of the recording area (i.e. green dotted region). Then click down and drag the recording area to the web browser.
+If your recording area needs to be adjusted slightly, place your mouse inside of the recording area (i.e. green dotted region). Then click down and drag the recording area over the desired region.
 </br>![sound check](./images/16.png)
 
 Click the record button  to begin recording.
 </br>![sound check](./images/record.png)
 
-To Pause, Stop Recording or Start Over, click the red film icon along the top menu bar.
+To Pause, Stop Recording or Start Over, click the red film icon along the top menu bar. Once the recording is complete, select _Stop_.
 </br>![sound check](./images/17.png)
 
 If you make an error while recording, or need a section of video edited, navigate to _Edit_, hover over _Marker_, and select _Add Markers_. Alternatively, select the _option_ + _M_ keys on your keyboard as a shortcut.
