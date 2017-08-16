@@ -106,5 +106,4 @@ For your convenience, there is a <a href="https://www.techsmith.com/tutorial-cam
 The _Learning & Performance_ team requests that you save and upload the Camtasia file, rather than exporting the video. To save a project, navigate to _File_ and select _Save As_.
 </br>![sound check](./images/20.png)
 
-The filename should include the course name. You will need to upload the course once complete. Navigate to the _Learning & Performance_ team drive by selecting the link, and drop your files into the folder.
-</br><a href="https://drive.google.com/open?id=0B5w_Rm6Jrg-PSHNIcXFQSmluMDQ" style="color:#0D6EE4"> Team Drive Folder</a>
+The filename should include the course name. You will need to upload the course once complete. Navigate to the _Learning & Performance_ </br><a href="https://drive.google.com/open?id=0B5w_Rm6Jrg-PSHNIcXFQSmluMDQ" style="color:#0D6EE4"> team drive folder</a>, and drop your files into the folder.
