@@ -1,10 +1,10 @@
 # <span style="color:#0346A3"> Quick Knowledge Guide:</span><span style="color:#91A11B"> Camtasia 2</span>
 
 ### Synopsis
-Recording a Camtasia session is a quick way to generate re-usable training materials that can be shared with others. Sometimes these recordings need to be edited in order to upload them to a formal eLearning course. This document has been created to help keep the recording quality as high as possible for re-use.
+Recording a Camtasia session is a quick way to generate re-usable training materials that can be shared with others. Sometimes these recordings need to be edited in order to upload them to a formal eLearning course. This document has been created to help keep the recording quality as high as possible for re-use. This guide will provide you the information needed to capture high quality screen recordings defined by your _Learning & Performance_ team.
 
 ### Objectives
-This guide will provide you the information needed to capture screen recordings defined by your _Learning & Performance_ team. You will receive information on:
+By the end of this guide, you will have received information on:
 * Installing the required software
 * Configuring the initial settings
 * Adjusting the recording dimensions
