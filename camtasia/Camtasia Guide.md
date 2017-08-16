@@ -26,6 +26,7 @@ If the level is lower than 50% - 75%. Adjust your mic. This has to be done on yo
 
 <img src="./images/appleLogo.png" alt="apple logo" width=250>
 
+
 Select System Preferences.
 </br>![sound check](./images/4.png)
 
