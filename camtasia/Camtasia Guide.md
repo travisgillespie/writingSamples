@@ -34,11 +34,6 @@ Click the Sound icon.
 Click Input.
 </br>![sound check](./images/6.png)
 
-
-
-
-
-
 Select the device of the mic you are adjusting.
 </br>![sound check](./images/7.png)
 
