@@ -51,11 +51,9 @@ Click the red button to select the recording region.
 
 ### USE LAPTOP AND NOT EXTERNAL MONITOR.
 Quality over quantity: Unless your external monitor has retina display the tradeoff of screen real-estate (quantity) over laptop resolution (quality) isn’t worth it.
-
 </br>![sound check](./images/12.png)
 
 Click anywhere in the top left corner of your screen and drag your mouse to the bottom right corner. Try to cover as much of the screen you want to capture. Notice the a green dotted line will highlight the recording area.
-
 </br>![sound check](./images/13.png)
 
 
@@ -64,12 +62,10 @@ Focus on the content you want to record when selecting a region.
 * Avoid selecting the region in yellow (browser menu and tabs).
 
 * Avoid selecting the region in red to avoid recording your desktop’s Dock.
-
 </br>![sound check](./images/14.png)
 
 ### How to Adjust Canvas Size Dimensions
 The required dimensions for all course recordings are 1280 x 720. Manually enter these values into the provided textfields. Camtasia will remember these values for your next recording.
-
 </br>![sound check](./images/15.png)
 
 
