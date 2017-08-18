@@ -47,7 +47,7 @@ Soldering is the process of connecting two or more components (usually metal) by
 <!--</br><img src="./images/picture50.jpg" alt="solder" width="250" style="float:left;"></br>-->
 
 ### Setting Up Your Workstation
-Start with a fire resistant surface. It's not as hard as it sounds. If you can't obtain a table top that's fire resistant, invest in a silicone soldering mat that has a high tolerance to heat.
+Start with a fire resistant surface. If you can't obtain a table top that's fire resistant, invest in a silicone soldering mat that has a high tolerance to heat.
 <img src="./images/picture52.jpg" alt="solder" width="" style=""></br>
 
 ### Tinning
