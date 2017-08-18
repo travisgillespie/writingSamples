@@ -137,13 +137,13 @@ Once the basics are understood, the process of building loops is simple. Marijn 
 
     ```JavaScript
     for(var i = 1; i <= 100; i++) {
-    	var word = "";
-    	if (i %3 == 0){
+      var word = "";
+      if (i %3 == 0){
         word += "Fizz";
       } else if (i % 5 == 0) {
-    		word += "Buzz";
-    	} else {
-         word = i;
+        word += "Buzz";
+      } else {
+        word = i;
       }
       console.log(word);
     }
