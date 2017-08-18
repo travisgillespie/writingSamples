@@ -64,7 +64,8 @@ Soldering is the process of connecting two or more components (usually metal) by
   * ...
 <!-- solder type  -->
 * Solder type
-  * It’s important to have the right type of solder. Solder comes in a variety of sizes, and chemical makeup.
+  * ...
+  <!-- * It’s important to have the right type of solder. Solder comes in a variety of sizes, and chemical makeup. -->
 <!-- Let's talk about different types fo solder, and which types you should consider, or avoid -->
 
 <!--Size matters, when it comes to solder. The thickness of the wire and electrical components will determine the thickness of solder needed. But, one good rule of thumb is to use thin solder when working with small components; somewhere in the range of 0.02” to 0.04” (0.5mm to 1mm) in diameter. -->
