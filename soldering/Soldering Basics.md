@@ -42,7 +42,7 @@ By the end of this lesson you will be able to:
 * Use a fire resistant surface when soldering.
 
 ### What is Soldering?
-Soldering is the process of connecting two or more components (usually metal) by melting a separate metal alloy, called solder, over the joined pieces. The molten solder coats the components, cools, then hardens. It’s similar to working with glue.
+Soldering is the process of connecting two or more components (usually metal) by melting a metal alloy, called solder, over the joined pieces. The molten solder coats the components, cools, then hardens. It’s similar to working with glue.
 <img src="./images/picture50.jpg" alt="solder" width="" style=""></br>
 <!--</br><img src="./images/picture50.jpg" alt="solder" width="250" style="float:left;"></br>-->
 
@@ -103,4 +103,4 @@ Tinning is a technique used to help melt the connector contacts (i.e. wires) tog
 
 ### Clean Up & Maintenance
 * Before leaving your station, make sure the area is clean, and iron is turned off. The safest measure is to unplug your soldering iron.
-* Wash your hands with soap and water. Some solder contains lead and it can be ingested easily by mistake. This is dangerous. Lead doesn't leave the body naturally, and even small exposures over time can cause lead poisoning. 
+* Wash your hands with soap and water. Some solder contains lead and it can be ingested by mistake if its residue remains on your hands or under your fingernails. This is dangerous. Lead doesn't leave the body naturally, and even small exposures over time can cause lead poisoning.
