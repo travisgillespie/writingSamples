@@ -47,18 +47,24 @@ Soldering is the process of connecting two or more components (usually metal) by
 <!--</br><img src="./images/picture50.jpg" alt="solder" width="250" style="float:left;"></br>-->
 
 ### Setting Up Your Workstation
-Start with a fire resistant surface. If you can't obtain a table top that's fire resistant, invest in a silicone soldering mat that has a high tolerance to heat.
-<img src="./images/picture52.jpg" alt="solder" width="" style=""></br>
+<!-- fire resistant surface  -->
+* Fire resistant surface:
+  * Start with a fire resistant surface. If you can't obtain a table top that's fire resistant, invest in a silicone soldering mat that has a high tolerance to heat.
 
-### Tinning
-Tinning is a technique used to help melt the connector contacts (i.e. wires) together. Tinning is simply the process of melting a coat of solder on the tip of your iron, and electronic components. This additional coat not only makes the soldering process easier, it fills gaps within the wires, and creates sturdy connections.
+    <img src="./images/picture52.jpg" alt="solder" width="" style=""></br>
 
-<!--Here is a video that describes the tinning process.-->
-<!-- VIDEO -->
+<!-- soldering iron  -->
+* Soldering iron:
 
-### Solder Types
+<!-- sponge or cleaning wire  -->
+* Tip clearner:
 
-It’s important to have the right type of solder. Solder comes in a variety of sizes, and chemical makeup.
+<!-- wire  -->
+* Wire:
+
+<!-- solder type  -->
+* Solder type
+  * It’s important to have the right type of solder. Solder comes in a variety of sizes, and chemical makeup.
 <!-- Let's talk about different types fo solder, and which types you should consider, or avoid -->
 
 <!--Size matters, when it comes to solder. The thickness of the wire and electrical components will determine the thickness of solder needed. But, one good rule of thumb is to use thin solder when working with small components; somewhere in the range of 0.02” to 0.04” (0.5mm to 1mm) in diameter. -->
@@ -67,13 +73,31 @@ It’s important to have the right type of solder. Solder comes in a variety of 
 <!-- links to demo videos -->
 
 
+<!-- helping hands  -->
+* Helping hands
 
-### Color Codes
+<!-- lighting  -->
+* Lighting
 
-### Soldering on a Circuit Board
+<!-- fan  -->
+* Fan
+
+### How to Hold the Soldering iron
+
+
+### Tinning
+Tinning is a technique used to help melt the connector contacts (i.e. wires) together. Tinning is simply the process of melting a coat of solder on the tip of your iron, and electronic components. This additional coat not only makes the soldering process easier, it fills gaps within the wires, and creates sturdy connections.
+
+<!--Here is a video that describes the tinning process.-->
+<!-- VIDEO -->
+
+### Cleaning the Soldering Iron Tip
+
+### How to Solder Wire
+
+### How to Solder Through Hole Components
+
 
 ### Clean Up & Maintenance
 * Before leaving your station, make sure the area is clean, and solder iron is off.
 * The safest measure, unplug your soldering iron.
-
-### Summary
