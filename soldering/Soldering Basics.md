@@ -61,8 +61,12 @@ Soldering is the process of connecting two or more components (usually metal) by
 
     <img src="./images/picture54.jpg" alt="soldering iron tip" width="100%" style=""></br>
 <!-- sponge or cleaning wire  -->
-* Tip clearner:
-  * ...
+* Tip cleaner:
+  * Iron tips get dirty over time. The most popular methods of cleaning the tip involve a brass wire brush or wet sponge. Using a wire brush vs a wet sponge boils down to personal preference. However, the moisture from a wet sponge can cause the tip to crack due to thermal expansion and contraction. The bottom line is both options work.
+  <img src="./images/picture4.jpg" alt="soldering iron tip" width="" style=""></br>
+
+
+
 <!-- wire  -->
 * Wire:
   * ...
