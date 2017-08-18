@@ -55,13 +55,13 @@ Soldering is the process of connecting two or more components (usually metal) by
 
 <!-- soldering iron  -->
 * Soldering iron:
-
+  * ...
 <!-- sponge or cleaning wire  -->
 * Tip clearner:
-
+  * ...
 <!-- wire  -->
 * Wire:
-
+  * ...
 <!-- solder type  -->
 * Solder type
   * It’s important to have the right type of solder. Solder comes in a variety of sizes, and chemical makeup.
@@ -74,13 +74,15 @@ Soldering is the process of connecting two or more components (usually metal) by
 
 
 <!-- helping hands  -->
-* Helping hands
-
+* Helping hands:
+  * ...
 <!-- lighting  -->
-* Lighting
-
+* Lighting:
+  * ...
 <!-- fan  -->
-* Fan
+* Fan:
+  * ...
+
 
 ### How to Hold the Soldering iron
 
