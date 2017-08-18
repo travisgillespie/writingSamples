@@ -116,7 +116,7 @@ Once the basics are understood, the process of building loops is simple. Marijn 
 2. _For numbers divisible by 3, print "Fizz"._
     ```JavaScript
     for(var i = 1; i <= 100; i++) {
-      var word = “”;
+      var word = "";
       if (i %3 == 0){
         word = "Fizz";
       } else {
