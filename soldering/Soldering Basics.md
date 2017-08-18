@@ -3,29 +3,37 @@
 ## Soldering and Basic Electronics Safety
 
 ### Synopsis
-In this training you will learn about soldering. Soon, you will understand how it has been used to make many of the electronic devices people have enjoyed for decades. Although many handheld electronics used today are assembled by machines, people still use soldering for a variety of electronic applications.
+In this training you will learn the basics of soldering. Soon, you will understand how solder has been used to piece together many of the electronic devices people have enjoyed for decades. Although many handheld electronics used today are assembled by machines, people still practice the manual process of soldering for a variety of electronic applications. Keep in mind this is only an overview. You can follow along to gain basic soldering skills, but it won't make you an expert.
 
 ### Prerequisites
 A basic understanding of electronics is useful but not required.
 
 ### Objectives
 By the end of this lesson you will be able to:
-* Select the proper tools and solder
-* Identify the resistance of a resistor
-* Identify the capacitance of a capacitor
-* Describe best practices of soldering electronics to a circuit board
+* Select proper soldering resources (i.e. tools and solder)
+* Assemble your workstation
+* Describe soldering best practices for electronics
+* Experiment by soldering wires and other components together
 
 ### Required Tools
 * Solder Station + Iron
-* Wet Sponge
+* Wet Sponge or Cleaning Wire
 * Wire Stripper
 * Solder
+* Wire 22AWG
+* Heat Shrink Tubing 3/32"
+* Heat Gun
+* Circuit Board
+* Helping Hand
+
+<!--
+* Heat Shrink Wire Wrap
 * Capacitors: 0.1 uF (2), 0.01uF (2)
 * Resistors: 600 Ohm (3), 1 Meg Ohm (3), 120 K Ohm (3)
 * Circuit Board
 * 9v Battery and Clip
 * 1 x Light Emitting Diode
-* Helping Hand
+-->
 
 ### General Safety
 * You may want to use safety glasses. Eye protection is a good idea when working with anything that might get into your eyes (e.g. chemicals, metal shards, or sawdust).
@@ -35,7 +43,8 @@ By the end of this lesson you will be able to:
 
 ### What is Soldering?
 Soldering is the process of connecting two or more components (usually metal) by melting a separate metal alloy, called solder, over the joined pieces. The molten solder coats the components, cools, then hardens. It’s similar to working with glue.
-
+</br><img src="./images/picture1" alt="solder" width="" style=""></br>
+</br><img src="./images/picture1" alt="solder" width="250" style="float:left;"></br>
 
 ### Tinning
 Tinning is a technique used to help melt the connector contacts (i.e. wires) together. Tinning is simply the process of melting a coat of solder on the tip of your iron, and electronic components. This additional coat not only makes the soldering process easier, it fills gaps within the wires, and creates sturdy connections.
