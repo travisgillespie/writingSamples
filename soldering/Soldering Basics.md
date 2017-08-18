@@ -69,9 +69,9 @@ Soldering is the process of connecting two or more components (usually metal) by
 
 <!-- wire  -->
 * Wire:
-  * Regarding electronics, wire is typically referred to as _hookup wire_. There are two types of hookup wire, _solid_ and _stranded_. Either type can be used for this project, but _stranded_ wire is recommended.
+  * Regarding electronics, wire is typically referred to as _hookup wire_. There are two types of hookup wire, _solid_ and _stranded_. Either type can be used for this project, but _stranded_ wire is recommended. Both wires look different on the inside when the insulator is stripped away.
 
-  * Both wires look different on the inside when the insulator is stripped away. _Solid_ wire houses a single conductor inside the surrounding plastic. This wire is ideal for projects that involve a breadboard.
+  * _Solid_ wire houses a single conductor inside the surrounding plastic. This wire is ideal for projects that involve a breadboard.
     <img src="./images/picture55.png" alt="solid wire" width="" style=""></br>
 
   * _Stranded_ wire has multiple wires woven together. This makes it an ideal candidate when applying coating a lay of solder, because the alloy will fill the grooves to produce a reliable passageway for electric current.
