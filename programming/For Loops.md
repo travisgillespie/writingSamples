@@ -107,9 +107,9 @@ Once the basics are understood, the process of building loops is simple. Marijn 
 
 1. _Write a program that uses console.log to print all the numbers from 1 to 100._
     ```JavaScript
-      for(var i = 1; i <= 100; i++) {
-      	console.log(i);
-      }
+    for(var i = 1; i <= 100; i++) {
+    	console.log(i);
+    }
     ```
     * Notice variable _i_ is set to 1, the condition will return _true_ while _i_ is less than or equal to 100. Each time the _for-loop_ ends, _i_ will increase by 1. It’s important to note this isn’t the only solution, but it’s an eloquent option.
 
