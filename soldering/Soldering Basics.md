@@ -18,7 +18,7 @@ By the end of this lesson you will be able to:
 ### Required Tools
 * Solder Station + Iron
 * Wet Sponge or Cleaning Wire
-* Wire Stripper
+* Wire Stripper (designed for 22-gauge wire)
 * Solder
 * Wire 22AWG
 * Heat Shrink Tubing 3/32"
@@ -69,7 +69,14 @@ Soldering is the process of connecting two or more components (usually metal) by
 
 <!-- wire  -->
 * Wire:
-  * ...
+  * Regarding electronics, wire is typically referred to as _hookup wire_. There are two types of hookup wire, _solid_ and _stranded_. Either type can be used for this project, but _stranded_ wire is recommended.
+
+  * Both wires look different on the inside when the insulator is stripped away. _Solid_ wire houses a single conductor inside the surrounding plastic. This wire is ideal for projects that involve a breadboard.
+    <img src="./images/picture55.jpg" alt="solid wire" width="" style=""></br>
+
+  * _Stranded_ wire has multiple wires woven together. This makes it an ideal candidate when applying coating a lay of solder, because the alloy will fill the grooves to produce a reliable passageway for electric current.
+    <img src="./images/picture56.jpg" alt="stranded wire" width="" style=""></br>
+
 <!-- solder type  -->
 * Solder type
   * ...
