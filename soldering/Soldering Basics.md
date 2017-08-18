@@ -36,7 +36,7 @@ By the end of this lesson you will be able to:
 -->
 
 ### General Safety
-* You may want to use safety glasses. Eye protection is a good idea when working with anything that might get into your eyes (e.g. chemicals, metal shards, or sawdust).
+* Safety glasses are optional. Eye protection is a good idea when working with anything that might get into your eyes (e.g. chemicals, metal shards, or sawdust).
 * Always assume the soldering iron is __HOT__. The tip can get very hot, and won’t glow orange as an indicator. You can easily burn yourself if not careful.
 * Never leave a soldering iron unattended when plugged in (i.e. not only when it's turned on, but connected to a power source).
 * Use a fire resistant surface when soldering.
@@ -55,7 +55,10 @@ Soldering is the process of connecting two or more components (usually metal) by
 
 <!-- soldering iron  -->
 * Soldering iron:
-  * ...
+  * Soldering irons vary in price, and range approximately from $10 up to $1000. A low-power 15W - 30W iron is a good tool to start with. These irons are essential to working with smaller components that are vulnerable to excessive heat. Additionally, the smaller the iron, the easier it is to handle. The iron tip should taper like a sharpened pencil.
+
+    <img src="./images/picture53" alt="solder" width="" style=""></br>
+
 <!-- sponge or cleaning wire  -->
 * Tip clearner:
   * ...
@@ -102,5 +105,5 @@ Tinning is a technique used to help melt the connector contacts (i.e. wires) tog
 
 
 ### Clean Up & Maintenance
-* Before leaving your station, make sure the area is clean, and iron is turned off. The safest measure is to unplug your soldering iron.
+* Before leaving your station, make sure the area is clean, and iron is turned off. The safest measure is to unplug the soldering iron.
 * Wash your hands with soap and water. Some solder contains lead and it can be ingested by mistake if its residue remains on your hands or under your fingernails. This is dangerous. Lead doesn't leave the body naturally, and even small exposures over time can cause lead poisoning.
