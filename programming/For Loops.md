@@ -161,13 +161,13 @@ Once the basics are understood, the process of building loops is simple. Marijn 
 4. _Modify your program to print "FizzBuzz" for numbers that are divisible by both 3 and 5.
     ```JavaScript
     for(var i = 1; i <= 100; i++) {
-    	var word = "";
-    	if (i % 3 == 0){
+      var word = "";
+      if (i % 3 == 0){
         word += "Fizz";
       }
-    	if (i % 5 == 0) {
-    		word += "Buzz";
-    	}
+      if (i % 5 == 0) {
+        word += "Buzz";
+      }
       console.log(word || i);
     }
     ```
