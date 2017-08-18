@@ -50,7 +50,6 @@ Click the drop-down arrow to adjust the recording size.  Select Custom Region.
 Click the red button to select the recording region.
 </br>![sound check](./images/11.png)
 
-### USE LAPTOP AND NOT EXTERNAL MONITOR.
 If you have two or more monitors, consider recording all sessions on your main computer monitor. External monitors have the tendency of deminishing the recording's resolution. Unless your external monitor has retina display the tradeoff of screen real-estate over laptop resolution isn’t worth it.
 </br>![sound check](./images/12.png)
 
