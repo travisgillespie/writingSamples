@@ -43,8 +43,8 @@ By the end of this lesson you will be able to:
 
 ### What is Soldering?
 Soldering is the process of connecting two or more components (usually metal) by melting a separate metal alloy, called solder, over the joined pieces. The molten solder coats the components, cools, then hardens. It’s similar to working with glue.
-</br><img src="./images/picture1.jpg" alt="solder" width="" style=""></br>
-</br><img src="./images/picture1.jpg" alt="solder" width="250" style="float:left;"></br>
+</br><img src="./images/picture50.jpg" alt="solder" width="" style=""></br>
+</br><img src="./images/picture50.jpg" alt="solder" width="250" style="float:left;"></br>
 
 ### Tinning
 Tinning is a technique used to help melt the connector contacts (i.e. wires) together. Tinning is simply the process of melting a coat of solder on the tip of your iron, and electronic components. This additional coat not only makes the soldering process easier, it fills gaps within the wires, and creates sturdy connections.
