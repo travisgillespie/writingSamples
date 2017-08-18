@@ -57,7 +57,7 @@ Soldering is the process of connecting two or more components (usually metal) by
 * Soldering iron:
   * Soldering irons vary in price, and range approximately from $10 up to $1000. A low-power 15W - 30W iron is a good tool to start with. These irons are essential to working with smaller components that are vulnerable to excessive heat. Additionally, the smaller the iron, the easier it is to handle. The iron tip should taper like a sharpened pencil.
 
-    <img src="./images/picture53" alt="solder" width="" style=""></br>
+    <img src="./images/picture53.png" alt="solder" width="" style=""></br>
 
 <!-- sponge or cleaning wire  -->
 * Tip clearner:
