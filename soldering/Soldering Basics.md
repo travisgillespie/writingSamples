@@ -102,5 +102,5 @@ Tinning is a technique used to help melt the connector contacts (i.e. wires) tog
 
 
 ### Clean Up & Maintenance
-* Before leaving your station, make sure the area is clean, and solder iron is off.
-* The safest measure, unplug your soldering iron.
+* Before leaving your station, make sure the area is clean, and iron is turned off. The safest measure is to unplug your soldering iron.
+* Wash your hands with soap and water. Some solder contains lead and it can be ingested easily by mistake. This is dangerous. Lead doesn't leave the body naturally, and even small exposures over time can cause lead poisoning. 
