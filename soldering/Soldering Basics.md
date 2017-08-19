@@ -79,16 +79,14 @@ Soldering is the process of connecting two or more components (usually metal) by
 
 <!-- solder type  -->
 * Solder type
-  * ...
-  <!-- * It’s important to have the right type of solder. Solder comes in a variety of sizes, and chemical makeup. -->
-<!-- Let's talk about different types fo solder, and which types you should consider, or avoid -->
+  * Solder is the material that's used to join components together. It comes in a variety of sizes, and chemical makeups. It’s important to have the right size and type of solder for electronics.
+  * A diameter of 0.02” to 0.04” (0.5mm to 1mm) will be sufficient for this project.
+  * Solder that is suitable for electronics projects should have word _electronics_ within the manufacturer's description.
+  * Avoid buying solder made for plumbers or craft projects (e.g. jewlery). All solder contains a substance called _flux_. Plumbing solder's flux has a corrosive acid-base, while electrical solder has a rosin-core base. The acid flux requires more heat, and the rosin-core melts instantly in the heat provided by the soldering iron.
+  * Some electrical solder contains lead. This solder flows smoothly when melted, it's easy to work with, but it poses health risks. Lead-free solder also has problems which make it harder to work with. The additional rosin creates more fumes, it melts at a higher temperature, and clumps together when cooling, but it isn't toxic.
+  * Although lead-free solder is recommended, the final choice is subjective.
 
-<!--Size matters, when it comes to solder. The thickness of the wire and electrical components will determine the thickness of solder needed. But, one good rule of thumb is to use thin solder when working with small components; somewhere in the range of 0.02” to 0.04” (0.5mm to 1mm) in diameter. -->
-
-<!--When first getting started practice joining joints paper clips / wires… -->
-<!-- links to demo videos -->
-
-
+    <img src="./images/picture6.jpg" alt="solder" width="" style=""></br>
 <!-- helping hands  -->
 * Helping hands:
   * ...
