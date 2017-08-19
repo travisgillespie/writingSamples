@@ -95,7 +95,7 @@ Soldering is the process of connecting two or more components (usually metal) by
 
 <!-- lighting  -->
 * Lighting:
-  * Depending on the ambient light and your optical dexterity, consider a desk light. Electronic devices can be small, additional light can help you see and work with the components.
+  * Depending on the ambient light and your vision, consider a desk light. Electronic devices can be small, additional light can help you see and work with the components.
     <img src="./images/picture9.jpg" alt="solder" width="" style=""></br>
 
 <!-- fan  -->
