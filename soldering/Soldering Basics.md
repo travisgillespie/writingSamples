@@ -85,11 +85,14 @@ Soldering is the process of connecting two or more components (usually metal) by
   * Avoid buying solder made for plumbers or craft projects (e.g. jewlery). All solder contains a substance called _flux_. Plumbing solder's flux has a corrosive acid-base, while electrical solder has a rosin-core base. The acid flux requires more heat, and the rosin-core melts instantly in the heat provided by the soldering iron.
   * Some electrical solder contains lead. This solder flows smoothly when melted, it's easy to work with, but it poses health risks. Lead-free solder also has problems which make it harder to work with. The additional rosin creates more fumes, it melts at a higher temperature, and clumps together when cooling, but it isn't toxic.
   * Although lead-free solder is recommended, the final choice is subjective.
-
     <img src="./images/picture6.jpg" alt="solder" width="" style=""></br>
+
 <!-- helping hands  -->
 * Helping hands:
-  * ...
+  * The _Helping Hand_ (sometimes known as a _third hand_) uses alligator clips to hold competents while you apply solder.
+    <img src="./images/picture57.jpg" alt="solder" width="" style=""></br>
+
+
 <!-- lighting  -->
 * Lighting:
   * ...
