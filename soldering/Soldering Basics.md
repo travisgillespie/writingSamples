@@ -105,34 +105,26 @@ Soldering is the process of connecting two or more components (usually metal) by
 
 ### How to Hold the Soldering iron
 * Holding a soldering iron is similar to a pencil. Except, hold the solderin iron further back by the insulated handle, rather than the tip.
-    <img src="./images/picture11.jpg" alt="fan" width="" style=""></br>
+    <img src="./images/picture11.jpg" alt="holding the iron" width="" style=""></br>
 
 * Remember the tip is hot, and will burn skin. Don't tough the metal part of the iron when turned on.
-  <img src="./images/picture12.jpg" alt="fan" width="" style=""></br>
+  <img src="./images/picture12.jpg" alt="holding the iron" width="" style=""></br>
 
 * Even if the table or mat is heat resistant, don't rest the iron on its workstation surface. It will burn the surface, and can lead to a fire.
-  <img src="./images/picture13.jpg" alt="fan" width="" style=""></br>
+  <img src="./images/picture13.jpg" alt="holding the iron" width="" style=""></br>
 <!-- Never leave soldering iron resting on the table. It will burn your work surface and could potentially start a fire. -->
 
 ### Tinning
-Tinning is a technique used to help melt the connector contacts (i.e. wires) together. Tinning is simply the process of melting a coat of solder on the tip of your iron, and electronic components. This additional coat not only makes the soldering process easier, it fills gaps within the wires, and creates sturdy connections.
+* Tinning is a technique used to help melt the connector contacts (i.e. wires) together. Tinning is simply the process of melting a coat of solder on the tip of your iron, and electronic components. This additional coat not only makes the soldering process easier, it fills gaps within the wires, and creates sturdy connections. Turn on the iron and set it to 650 degrees. Once heated, place some solder on the tip of the iron. A little bubble, or coat will form on the tip.
 
-  <img src="./images/picture18.jpg" alt="fan" width="" style=""></br>
-
-<!-- Turn on the soldering iron and wait for it to heat up. If you splurged on an adjustable temperature model, you can dial yours in to about 650 degrees.
-
-Once it is heated up, you will want to tin the tip before using it for the first time.
-
-All this involves is thoroughly melting solder all over the tip of the iron. This makes sure the tip has a nice solder coating, which will make it easier to melt solder the next time you use it. -->
+  <img src="./images/picture18.jpg" alt="tinning" width="" style=""></br>
 
 <!--Here is a video that describes the tinning process.-->
 <!-- VIDEO -->
 
 ### Cleaning the Soldering Iron Tip
-
-
-<!-- Every time you melt solder using the tip, you will want to clean it off.
-To do this, simply drag the tip 2 or 3 times across the cleaning pad. -->
+* To clean the tip, simply drag it 2 or 3 times across the cleaning pad. Do this every time solder is melted on the tip.
+  <img src="./images/picture19.gif" alt="cleaning the tip" width="" style=""></br>
 
 ### How to Solder Wire
 The finished product should look something like this:
