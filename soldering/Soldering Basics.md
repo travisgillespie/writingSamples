@@ -109,12 +109,30 @@ Soldering is the process of connecting two or more components (usually metal) by
 ### Tinning
 Tinning is a technique used to help melt the connector contacts (i.e. wires) together. Tinning is simply the process of melting a coat of solder on the tip of your iron, and electronic components. This additional coat not only makes the soldering process easier, it fills gaps within the wires, and creates sturdy connections.
 
+<!-- Turn on the soldering iron and wait for it to heat up. If you splurged on an adjustable temperature model, you can dial yours in to about 650 degrees.
+
+Once it is heated up, you will want to tin the tip before using it for the first time.
+
+All this involves is thoroughly melting solder all over the tip of the iron. This makes sure the tip has a nice solder coating, which will make it easier to melt solder the next time you use it. -->
+
 <!--Here is a video that describes the tinning process.-->
 <!-- VIDEO -->
 
 ### Cleaning the Soldering Iron Tip
 
+
+<!-- Every time you melt solder using the tip, you will want to clean it off.
+To do this, simply drag the tip 2 or 3 times across the cleaning pad. -->
+
 ### How to Solder Wire
+The finished product should look something like this:
+<img src="./images/picture20.jpg" alt="fan" width="" style=""></br>
+
+* First grab two _stranded_ wires. Using a wire stripper, strip the insulation from one end on each wire.
+  <img src="./images/picture21.jpg" alt="fan" width="" style=""></br>
+
+* Slide a 1" piece of shrink tube onto one of the wires, then twist the two wires together.
+  <img src="./images/picture22.jpg" alt="fan" width="" style="float left"></br>
 
 ### How to Solder Through Hole Components
 
