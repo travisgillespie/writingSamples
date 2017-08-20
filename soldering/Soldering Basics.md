@@ -27,7 +27,6 @@ By the end of this lesson you will be able to:
 * Helping Hand
 
 ### General Safety
-* Safety glasses are optional. Eye protection is a good idea when working with anything that might get into your eyes (e.g. chemicals, metal shards, or sawdust).
 * Always assume the soldering iron is __HOT__. The tip can get very hot, and won’t glow orange as an indicator. You can easily burn yourself if not careful.
 * Never leave a soldering iron unattended when plugged in (i.e. not only when it's turned on, but connected to a power source).
 * Use a fire resistant surface when soldering.
@@ -46,59 +45,56 @@ Soldering is the process of connecting two or more components (usually metal) by
 
 <!-- soldering iron  -->
 * Soldering iron:
-  * Soldering irons vary in price, ranging from $10 up to $1000. A low-power 15W - 30W iron is a good tool to start with. These irons are essential to working with smaller components that are vulnerable to excessive heat. Additionally, the smaller the iron, the easier it is to handle. The iron tip should taper like a sharpened pencil when working with small parts. But, delicate precision isn't needed for general purposes, so a chisel-shaped tip is recommended, because it transfers heat better.
+  * Soldering irons vary in price. A low-power 15W - 30W iron is a good tool to start with. These irons are not only essential to working with smaller components, they’re easier to handle. When working with small parts, the tip should taper like a sharpened pencil. But, delicate precision isn't needed for general purposes, so a chisel-shaped tip is recommended because it transfers heat better.
     <img src="./images/picture54.jpg" alt="soldering iron tip" width="100%" style=""></br>
 
 <!-- sponge or cleaning wire  -->
 * Tip cleaner:
-  * Iron tips get dirty over time. The most popular methods of cleaning the tip involve a brass wire brush or wet sponge. Using a wire brush vs a wet sponge boils down to personal preference. However, the moisture from a wet sponge can cause the tip to crack due to thermal expansion and contraction. The bottom line is both options work.
+  * Iron tips get dirty over time, but they can be cleaned with a brass wire brush or wet sponge. The moisture from a wet sponge can cause the tip to crack due to thermal expansion and contraction. However, using a wire brush or wet sponge boils down to personal preference.
   <img src="./images/picture4.jpg" alt="soldering iron tip" width="" style=""></br>
 
 <!-- wire  -->
 * Wire:
-  * Regarding electronics, wire is typically referred to as _hookup wire_. There are two types of hookup wire, _solid_ and _stranded_. Either type can be used for this project, but _stranded_ wire is recommended. Both wires look different on the inside when the insulator is stripped away.
+  * Electronics, wire is typically referred to as _hookup wire_. There are two types of hookup wire, _solid_ and _stranded_. _Stranded_ wire is recommended, but either type can be used for this project.
 
   * _Solid_ wire houses a single conductor inside the surrounding plastic. This wire is ideal for projects that involve a breadboard.
     <img src="./images/picture55.png" alt="solid wire" width="" style=""></br>
 
-  * _Stranded_ wire has multiple wires woven together. This makes it an ideal candidate when applying a coat of solder, because the alloy will fill the grooves to produce a reliable passageway for electric current.
+  * _Stranded_ wire has multiple wires woven together, which helps the solder alloy produce a reliable passageway for electric current.
     <img src="./images/picture56.png" alt="stranded wire" width="" style=""></br>
 
 <!-- solder type  -->
 * Solder type
-  * Solder is the material that's used to join components together. It comes in a variety of sizes, and chemical makeups. It’s important to have the right size and type of solder for electronics.
-  * A diameter of 0.02” to 0.04” (0.5mm to 1mm) will be sufficient for this project.
-  * Solder that is suitable for electronics projects should have word _electronics_ within the manufacturer's description.
-  * Avoid buying solder made for plumbers or craft projects (e.g. jewlery). All solder contains a substance called _flux_. Plumbing solder's flux has a corrosive acid-base, while electrical solder has a rosin-core base. The acid flux requires more heat, and the rosin-core melts instantly in the heat provided by the soldering iron.
-  * Some electrical solder contains lead. This solder flows smoothly when melted, it's easy to work with, but it poses health risks. Lead-free solder also has problems which make it harder to work with. The additional rosin creates more fumes, it melts at a higher temperature, and clumps together when cooling, but it isn't toxic.
-  * Although lead-free solder is recommended, the final choice is subjective.
+  * Solder is the material used to join components together. It’s important to have the right size and type of solder for electronics.
+  * A diameter of 0.02” to 0.04” (0.5mm to 1mm) will be sufficient.
+  * Solder that is suitable for electronics should have the word electronics written in the manufacturer's description.
+  * Avoid buying solder made for plumbers or craft projects. All solder contains a substance called _flux_. Plumbing solder flux has a corrosive acid-base, while electrical solder has a rosin-core base. The acid flux requires more heat, but the rosin-core melts instantly.
+  * Some solder contains lead. This solder flows smoothly when melted, it's easy to work with, but it poses health risks. Lead-free solder is safer, but it’s harder to work with.
+  * Lead-free solder is recommended.
     <img src="./images/picture6.jpg" alt="solder" width="" style=""></br>
 
 <!-- helping hands  -->
 * Helping hands:
-  * The _Helping Hand_ (sometimes known as a _third hand_) uses alligator clips to hold components while you apply solder.
+  * The _Helping Hand_ (sometimes known as a _third hand_) uses alligator clips to hold components together.
     <img src="./images/picture57.jpg" alt="helping hand" width="" style=""></br>
 
 
 <!-- lighting  -->
 * Lighting:
-  * Depending on the ambient light and your vision, consider a desk light. Electronic devices can be small, additional light can help you see and work with the components.
+  * Consider using a desk light to illuminate small components.
     <img src="./images/picture9.jpg" alt="light" width="" style=""></br>
 
 <!-- fan  -->
 * Fan:
-  * Breathing soldering fumes can be hazardous. Have a ventilation system in place. Even a small fan can help minimize your exposure.
+  * Breathing soldering fumes can be hazardous. Even a small fan can help minimize your exposure.
     <img src="./images/picture58.jpg" alt="fan" width="" style=""></br>
 
 ### How to Hold the Soldering iron
-* Holding a soldering iron is similar to a pencil. Except, hold the soldering iron further back by the insulated handle, rather than the tip.
+* Hold the soldering iron by its insulated handle, rather than the tip.
     <img src="./images/picture11.jpg" alt="holding the iron" width="" style=""></br>
 
-* Remember the tip is hot, and will burn skin. Don't tough the metal part of the iron when turned on.
+* Remember the tip is hot, and will burn skin.
   <img src="./images/picture12.jpg" alt="holding the iron" width="" style=""></br>
-
-* Even if the table or mat is heat resistant, don't rest the iron on its workstation surface. It will burn the surface, and can lead to a fire.
-  <img src="./images/picture13.jpg" alt="holding the iron" width="" style=""></br>
 <!-- Never leave soldering iron resting on the table. It will burn your work surface and could potentially start a fire. -->
 
 ### Tinning
@@ -128,7 +124,7 @@ The finished product should look something like this:
 * Remove both iron and solder, the metal coating will cool instantly.
   <img src="./images/picture25.jpg" alt="fan" width="" style="float left"></br>
 
-* Trim the excess wire so the connection is as compact.
+* Trim the excess wire so the connection is compact.
   <img src="./images/picture27b.jpg" alt="fan" width="" style="float left"></br>
 
 * Cover the solder joint with the heat shrink tube.
