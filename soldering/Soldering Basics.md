@@ -142,8 +142,17 @@ The finished product should look something like this:
 * Remove both iron and solder, the metal coating will cool instantly.
   <img src="./images/picture25.jpg" alt="fan" width="" style="float left"></br>
 
-*
+* Trim the excess wire so the connection is as compact.
   <img src="./images/picture27b.jpg" alt="fan" width="" style="float left"></br>
+
+* Cover the solder joint with the heat shrink tube.
+  <img src="./images/picture28.jpg" alt="fan" width="" style="float left"></br>
+
+* Use the heat gun to shrink the tube into place.
+  <img src="./images/picture29.jpg" alt="fan" width="" style="float left"></br>
+
+* Congratulations, the soldered wire should look similar to this:
+  <img src="./images/picture30.jpg" alt="fan" width="" style="float left"></br>
 
 ### How to Solder Through Hole Components
 
