@@ -104,10 +104,15 @@ Soldering is the process of connecting two or more components (usually metal) by
     <img src="./images/picture58.jpg" alt="fan" width="" style=""></br>
 
 ### How to Hold the Soldering iron
-* Holding a soldering iron is similar to a pencil. Except, hold the solderin iron further back by the insulated handle, rather than the tip. Remember the tip is hot, and will burn skin.
+* Holding a soldering iron is similar to a pencil. Except, hold the solderin iron further back by the insulated handle, rather than the tip.
     <img src="./images/picture11.jpg" alt="fan" width="" style=""></br>
 
+* Remember the tip is hot, and will burn skin. Don't tough the metal part of the iron when turned on.
+  <img src="./images/picture12.jpg" alt="fan" width="" style=""></br>
 
+* Even if the table or mat is heat resistant, don't rest the iron on its workstation surface. It will burn the surface, and can lead to a fire.
+  <img src="./images/picture13.jpg" alt="fan" width="" style=""></br>
+<!-- Never leave soldering iron resting on the table. It will burn your work surface and could potentially start a fire. -->
 
 ### Tinning
 Tinning is a technique used to help melt the connector contacts (i.e. wires) together. Tinning is simply the process of melting a coat of solder on the tip of your iron, and electronic components. This additional coat not only makes the soldering process easier, it fills gaps within the wires, and creates sturdy connections.
