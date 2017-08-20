@@ -100,7 +100,7 @@ Soldering is the process of connecting two or more components (usually metal) by
 
 <!-- fan  -->
 * Fan:
-  * Breathing soldering fumes can be hazerdous. Have a ventilation system in place. Even a small fan will help minimize your exposure.
+  * Breathing soldering fumes can be hazerdous. Have a ventilation system in place. Even a small fan can help minimize your exposure.
     <img src="./images/picture58.jpg" alt="fan" width="" style=""></br>
 
 ### How to Hold the Soldering iron
