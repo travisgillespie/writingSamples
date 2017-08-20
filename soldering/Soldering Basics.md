@@ -90,18 +90,18 @@ Soldering is the process of connecting two or more components (usually metal) by
 <!-- helping hands  -->
 * Helping hands:
   * The _Helping Hand_ (sometimes known as a _third hand_) uses alligator clips to hold competents while you apply solder.
-    <img src="./images/picture57.jpg" alt="solder" width="" style=""></br>
+    <img src="./images/picture57.jpg" alt="helping hand" width="" style=""></br>
 
 
 <!-- lighting  -->
 * Lighting:
   * Depending on the ambient light and your vision, consider a desk light. Electronic devices can be small, additional light can help you see and work with the components.
-    <img src="./images/picture9.jpg" alt="solder" width="" style=""></br>
+    <img src="./images/picture9.jpg" alt="light" width="" style=""></br>
 
 <!-- fan  -->
 * Fan:
-  * ...
-
+  * Breathing soldering fumes can be hazerdous. Have a ventilation system in place. Even a small fan will help minimize your exposure.
+    <img src="./images/picture58.jpg" alt="fan" width="" style=""></br>
 
 ### How to Hold the Soldering iron
 
