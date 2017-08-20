@@ -141,8 +141,9 @@ The finished product should look something like this:
 
 * Remove both iron and solder, the metal coating will cool instantly.
   <img src="./images/picture25.jpg" alt="fan" width="" style="float left"></br>
-<!-- Place the soldering iron against the wire to heat it up, and push the solder into the wire. It should start to melt and get wicked up into the wire, coating it in silver. -->
 
+*
+  <img src="./images/picture27b.jpg" alt="fan" width="" style="float left"></br>
 
 ### How to Solder Through Hole Components
 
