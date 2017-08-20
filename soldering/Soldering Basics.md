@@ -104,6 +104,9 @@ Soldering is the process of connecting two or more components (usually metal) by
     <img src="./images/picture58.jpg" alt="fan" width="" style=""></br>
 
 ### How to Hold the Soldering iron
+* Holding a soldering iron is similar to a pencil. Except, hold the solderin iron further back by the insulated handle, rather than the tip. Remember the tip is hot, and will burn skin.
+    <img src="./images/picture11.jpg" alt="fan" width="" style=""></br>
+
 
 
 ### Tinning
