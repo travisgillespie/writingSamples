@@ -136,6 +136,14 @@ The finished product should look something like this:
 * Slide a 1" piece of shrink tube onto one of the wires, then twist the two wires together.
   <img src="./images/picture22.jpg" alt="fan" width="" style="float left"></br>
 
+* Heat each wire separately by placing the iron against the exposed metal. The metal will heat in a few seconds. Push the solder into the wire. The solder will melt and cover the wire with a silver coating.
+  <img src="./images/picture24.jpg" alt="fan" width="" style="float left"></br>
+
+* Remove both iron and solder, the metal coating will cool instantly.
+  <img src="./images/picture25.jpg" alt="fan" width="" style="float left"></br>
+<!-- Place the soldering iron against the wire to heat it up, and push the solder into the wire. It should start to melt and get wicked up into the wire, coating it in silver. -->
+
+
 ### How to Solder Through Hole Components
 
 
