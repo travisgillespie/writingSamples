@@ -1,7 +1,7 @@
 ## Soldering and Basic Electronics Safety
 
 ### Synopsis
-In this training you will learn the basics of soldering. Although many handheld electronics used today are assembled by machines, people still practice the manual process of soldering for a variety of electronic applications. Keep in mind this is only an overview.
+Although many handheld electronics used today are assembled by machines, people still practice the manual process of soldering for a variety of electronic applications. In this training you will learn the basics of soldering. Keep in mind this is only an overview.
 
 ### Prerequisites
 A basic understanding of electronics is useful but not required.
