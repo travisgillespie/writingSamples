@@ -96,7 +96,7 @@ Soldering is the process of connecting two or more components (usually metal) by
 <!-- Never leave soldering iron resting on the table. It will burn your work surface and could potentially start a fire. -->
 
 ### Tinning
-* Tinning is a technique used to help melt the connector contacts (i.e. wires) together. Tinning is simply the process of melting a coat of solder on the tip of your iron, and electronic components. This additional coat not only makes the soldering process easier, it fills gaps within the wires, and creates sturdy connections. Turn on the iron and set it to 650 degrees. Once heated, place some solder on the tip of the iron. A little bubble, or coat will form on the tip.
+* Tinning is a technique used to help melt the connector contacts (i.e. wires) together. Tinning is simply the process of melting a coat of solder on the tip of your iron, and electronic components. This additional coat not only makes the soldering process easier, it fills gaps within the wires, and creates sturdy connections. Turn on the iron and set it to 650 degrees Fahrenheit. Once heated, place some solder on the tip of the iron. A little bubble, or coat will form on the tip.
   <img src="./images/picture18.jpg" alt="tinning" width="" style=""></br>
 
 <!--Here is a video that describes the tinning process.-->
